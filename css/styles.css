@@ -193,3 +193,12 @@ a {
     color: #f9faf8;
     font-weight: 700;
 }
+
+#main.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    height: 100px;
+    color: white;
+}
