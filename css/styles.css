@@ -172,3 +172,7 @@ button {
     justify-content: space-between;
 }
 
+.content-container .head {
+    font-size: 24px;
+    font-weight: 700;
+}
