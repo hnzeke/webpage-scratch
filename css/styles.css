@@ -79,6 +79,12 @@ button {
     height: 226px;
 }
 
+.s2-card1 {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+}
+
 .s2-img {
     width: 150px;
     height: 150px;
