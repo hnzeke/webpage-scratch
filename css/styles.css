@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-.head {
+#main.head {
     display: flex;
     background-color: #1f2937;
     justify-content: center;
@@ -153,3 +153,21 @@ button {
     color: #1f2937;
     font-weight: 700;
 }
+
+.s4 {
+    display: flex;
+    justify-content: center;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.s4-content {
+    display: flex;
+    background-color: #3882f6;
+    color: #f9faf8;
+    width: 900px;
+}
+
