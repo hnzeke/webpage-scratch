@@ -73,7 +73,7 @@ button {
     font-weight: 700;
 }
 
-div img {
+.s1-img {
     display: flex;
     width: 450px;
     height: 226px;
