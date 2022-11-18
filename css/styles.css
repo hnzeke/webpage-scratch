@@ -61,7 +61,7 @@ a {
     gap: 10px;
 }
 
-button {
+.s1-card button {
     box-sizing: border-box;
     font-size: 18px;
     border: 1px;
