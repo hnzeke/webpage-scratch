@@ -170,9 +170,22 @@ a {
     color: #f9faf8;
     width: 900px;
     justify-content: space-between;
+    align-items: center;
 }
 
 .content-container .head {
     font-size: 24px;
+    font-weight: 700;
+}
+
+.s4-content button {
+    box-sizing: border-box;
+    font-size: 18px;
+    border: 2px solid white;
+    border-radius: 8px;
+    width: 130px;
+    height: 35px;
+    background-color: #3882f6;
+    color: #f9faf8;
     font-weight: 700;
 }
