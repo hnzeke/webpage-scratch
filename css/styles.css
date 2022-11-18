@@ -169,5 +169,6 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     width: 900px;
+    justify-content: space-between;
 }
 
