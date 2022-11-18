@@ -171,6 +171,10 @@ a {
     width: 900px;
     justify-content: space-between;
     align-items: center;
+    border: 1px;
+    border-radius: 6px;
+    padding: 40px 100px;
+    margin: 100px;
 }
 
 .content-container .head {
