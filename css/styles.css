@@ -80,10 +80,14 @@ button {
 }
 
 .s2-head {
-    text-align: center;
+    display: flex;
+    box-sizing: border-box;
     font-size: 36px;
     font-weight: 900;
-    color: #1f2937
+    color: #1f2937;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
 }
 
 .s2 {
