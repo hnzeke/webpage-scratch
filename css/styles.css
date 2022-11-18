@@ -86,6 +86,17 @@ button {
     color: #1f2937
 }
 
+.s2 {
+    display: flex;
+    justify-content: center;
+}
+
+.s2-content {
+    display: flex;
+    justify-content: space-between;
+    width: 940px;
+}
+
 .s2-card {
     display: flex;
     flex-direction: column;
