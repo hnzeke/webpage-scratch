@@ -44,7 +44,8 @@ a {
     display: flex;
     justify-content: center;
     gap: 40px;
-    padding-top: 100px;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .s1-title {
